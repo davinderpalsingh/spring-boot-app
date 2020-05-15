@@ -8,5 +8,4 @@ mobile-app-ws is a Spring Boot Application is intended to showcase the following
 
 To see the webservices in action, clone repo and run application. From an , you can try hitting these end points:
 
-1. 
 
