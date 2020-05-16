@@ -9,8 +9,8 @@ import com.davinder.app.ws.io.entity.UserEntity;
 public interface UserRepository extends CrudRepository<UserEntity, Long> {
 
 	/*
-	 * custom method.
-	 * If we want to query or find a record / user who has the email which will be supplied as a parameter.
+	 * custom method. If we want to query or find a record / user whose email id
+	 * matches the email id supplied as parameter.
 	 * 
 	 */
 	UserEntity findByEmail(String email);

@@ -41,7 +41,7 @@ public class WebSecurity extends WebSecurityConfigurerAdapter{
 	}
 	
 	/*
-	 * We has overridden this method of WebSecurityConfigurerAdapter class. We are configuring in this method that
+	 * We have overridden this method of WebSecurityConfigurerAdapter class. We are configuring in this method that
 	 * HttpMethod.POST call for /users end point should be permitted for all whereas all other requests will be 
 	 * authenticated ie allowed only to valid users.
 	 */
