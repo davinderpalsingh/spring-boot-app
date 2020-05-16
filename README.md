@@ -5,6 +5,7 @@ mobile-app-ws is a Spring Boot Application which is intended to showcase the fol
 3. How to use Spring Data JPA to map entities with DB and persist them.
 4. How to configure rest web service end points as public and private by using Spring Security Framework.
 5. How to use Spring Security Framework Encryption api to encrypt password before persisting in DB.
+6. How to add support for XML payload and webservice response.
 
 
 As part of this application, 4 end points are implemented:
