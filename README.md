@@ -9,6 +9,8 @@ mobile-app-ws is a Spring Boot Application which is intended to showcase the fol
 
 As part of this application, 4 end points are implemented:
 
+
+
 Http Method           URI                       Access type             Description 
 GET                   /users/{userid}           public                  Retrieves user details from database   
 POST                  /users                    public                  Create new user: Sign up / Create Account
